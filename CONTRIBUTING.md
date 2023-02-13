@@ -1,3 +1,4 @@
+CONTRIBUTING TO SIMPLE CALCULATOR INTEREST FINAL PROJECT
 All contributions and ideas are welcome.
 You can contribute in any of these ways:
 *Improving the documentation
